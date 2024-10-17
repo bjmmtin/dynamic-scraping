@@ -1,7 +1,7 @@
 # Description
 
-    Instead of using the HTML tag since it's an encoded class, we need to retrieve more data from the network call to get additional information for each video.
-    We need to scrap the meta ads library using python playwright or beautiful soup.
+Instead of using the HTML tag since it's an encoded class, we need to retrieve more data from the network call to get additional information for each video.
+We need to scrap the meta ads library using python playwright or beautiful soup.
 
 # Requirements:
 
@@ -18,6 +18,6 @@
 2. Run the code:
 
     ```
-    py scrape_ads.py
+    py ad_scraper.py
 
     ```
